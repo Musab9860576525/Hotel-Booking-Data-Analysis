@@ -27,3 +27,10 @@ Power BI provides wide variety of data sources one of which is sql server.<br>
 one can easily get data from sql server into power bi.<br>
 Power BI also has option of quering the data into power bi itself through structured query language.<br>
 In this project i write sql query within the power BI and power bi load the data as per our query requirments.<br>
+
+
+### 4) Visualisation
+Power BI is one of the strongest Bi tool in the market today.<br>
+In this project power bi is used for visualisation.<br>
+Snapshot of Power BI dashboard is shown below.<br>
+![](https://github.com/Musab9860576525/Hotel-Booking-Data-Analysis/blob/main/Hotel%20Booking%20Data%20Dashboard.png)
